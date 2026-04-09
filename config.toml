@@ -4,3 +4,6 @@ wisp = true
 
 [proxy]
 transport = "epoxy"
+
+[db]
+type = "sqlite"
