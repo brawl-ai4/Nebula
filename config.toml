@@ -1,0 +1,6 @@
+[server]
+port = 8080
+wisp = true
+
+[proxy]
+transport = "epoxy"
